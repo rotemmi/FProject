@@ -12,7 +12,7 @@
 <body>
 	<form action="index.jsp">
 		<fieldset>
-			<legend>Elad And Rotem Devops Project</legend>
+			<legend>Elad And Rotem Devops Project After</legend>
 			<h1>Calculator</h1>
 			<input type="number" name="number1" placeholder="number1"
 				required="required"> <select name="sign">
